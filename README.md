@@ -1,7 +1,7 @@
 
-#Unsupervised Learning on Wine Dataset
+# Unsupervised Learning on Wine Dataset
 
-##Project Overview
+## Project Overview
 This project explores the **Wine Dataset** from the UCI Machine Learning Repository using **unsupervised learning techniques**.  
 The goal is to uncover natural groupings in wine samples based on their chemical composition, without using labels during training.  
 
